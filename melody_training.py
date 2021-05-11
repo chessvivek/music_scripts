@@ -1,5 +1,4 @@
 import numpy as np
-from pprint import pprint
 from scipy.io.wavfile import write
 from playsound import playsound as ps
 
